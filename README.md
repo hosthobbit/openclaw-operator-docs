@@ -34,6 +34,10 @@ openclaw help
 
 See the [Quick Start (Daily Use)](docs/OPENCLAW-COMMANDS.md#quick-start-daily-use) table in the cheat sheet for the full top 10.
 
+## License
+
+MIT, see [LICENSE](LICENSE).
+
 ---
 
 ## About Host Hobbit
